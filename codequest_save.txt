@@ -1,0 +1,13 @@
+"Adventurer"
+70 0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+ACHIEVEMENTS 0
+MISTAKES 2
+"Snake Quest - BFS commonly uses which structure? | Answer: A"
+"Snake Quest - Which operation removes the top stack item? | Answer: B"
+REVISION 0
